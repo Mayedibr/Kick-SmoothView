@@ -14,3 +14,7 @@ Features:
 
 Important notice:
 Some gift or subscription alerts may not appear when Hide emotes or Hide chat images is enabled.
+
+For questions or suggestions, contact:
+
+L1kick@sm60a.xyz
