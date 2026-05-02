@@ -14,12 +14,3 @@ Features:
 
 Important notice:
 Some gift or subscription alerts may not appear when Hide emotes or Hide chat images is enabled.
-
-Debug:
-window.__kickSmoothViewGetQualityStats()
-
-
-Branding update:
-- Added Level One footer banner
-- Added community note
-- Added contact email: L1kick@sm60a.xyz
